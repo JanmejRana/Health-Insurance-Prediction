@@ -100,6 +100,13 @@ The model predicts premiums based on:
 
 ---
 
+
+## 🌍 Live Demo  
+Try out the web app here: **[Predict My Premium](https://predict-my-premium.streamlit.app/)**
+
+
+---
+
 ## 🚀 Running the Project Locally  
 
 ```sh
@@ -114,6 +121,4 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
-
-
 
